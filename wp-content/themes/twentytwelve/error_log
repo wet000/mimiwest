@@ -1,0 +1,6 @@
+[27-Dec-2013 13:55:23 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/musicmc3/public_html/mimiwest/wp-content/themes/twentytwelve/404.php on line 10
+[10-Mar-2014 20:32:32 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/musicmc3/public_html/mimiwest/wp-content/themes/twentytwelve/404.php on line 10
+[25-May-2014 06:10:50 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/musicmc3/public_html/mimiwest/wp-content/themes/twentytwelve/tag.php on line 14
+[25-May-2014 18:25:55 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/musicmc3/public_html/mimiwest/wp-content/themes/twentytwelve/tag.php on line 14
+[30-May-2014 23:55:06 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/musicmc3/public_html/mimiwest/wp-content/themes/twentytwelve/404.php on line 10
+[21-Jul-2015 17:57:30 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/musicmc3/public_html/mimiwest/wp-content/themes/twentytwelve/404.php on line 10
