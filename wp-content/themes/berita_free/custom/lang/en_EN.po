@@ -1,0 +1,720 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Translation File\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-31 08:32+0100\n"
+"PO-Revision-Date: 2014-03-31 08:32+0100\n"
+"Last-Translator: Željan Topić <admin@bizzartic.com>\n"
+"Language-Team: BizzThemes <info@bizzthemes.com>\n"
+"Language: en_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lib_frame/frame_actions.php:69 ../lib_frame/frame_actions.php:112
+msgid "week"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:69 ../lib_frame/frame_actions.php:70
+#: ../lib_frame/frame_actions.php:73 ../lib_frame/frame_actions.php:74
+#: ../lib_frame/frame_actions.php:77 ../lib_frame/frame_actions.php:78
+#: ../lib_frame/frame_actions.php:81 ../lib_frame/frame_actions.php:84
+#: ../lib_frame/frame_actions.php:103 ../lib_frame/frame_actions.php:107
+#: ../lib_frame/frame_actions.php:111 ../lib_frame/frame_actions.php:115
+#: ../lib_frame/frame_actions.php:119 ../lib_frame/frame_actions.php:123
+msgid "s"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:70 ../lib_frame/frame_actions.php:73
+#: ../lib_frame/frame_actions.php:116
+msgid "day"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:74 ../lib_frame/frame_actions.php:77
+#: ../lib_frame/frame_actions.php:120
+msgid "hour"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:78 ../lib_frame/frame_actions.php:81
+#: ../lib_frame/frame_actions.php:84 ../lib_frame/frame_actions.php:124
+msgid "minute"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:88
+msgid "Posted"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:88 ../lib_frame/frame_actions.php:104
+#: ../lib_frame/frame_actions.php:108 ../lib_frame/frame_actions.php:112
+#: ../lib_frame/frame_actions.php:116 ../lib_frame/frame_actions.php:120
+#: ../lib_frame/frame_actions.php:124 ../lib_frame/frame_actions.php:126
+msgid "ago"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:104
+msgid "year"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:108
+msgid "month"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:126
+msgid "moments"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:195 ../lib_frame/frame_actions.php:255
+msgid "First"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:220 ../lib_frame/frame_actions.php:256
+msgid "Last"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:257
+msgid "&raquo;"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:258
+msgid "&laquo;"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:259 ../lib_frame/frame_actions.php:260
+msgid "..."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1097
+msgid ""
+"Theme configuration is not saved!<br/></br><br/><small>After theme "
+"activation go to theme options panel,<br/>where you may set up your theme ;)"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1111
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1113
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1128 ../lib_frame/frame_actions.php:1458
+#: ../lib_frame/frame_actions.php:1486 ../lib_frame/frame_actions.php:1514
+msgid "No Comments"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1128 ../lib_frame/frame_actions.php:1458
+#: ../lib_frame/frame_actions.php:1486 ../lib_frame/frame_actions.php:1514
+msgid "One Comment"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1128 ../lib_frame/frame_actions.php:1458
+#: ../lib_frame/frame_actions.php:1486 ../lib_frame/frame_actions.php:1514
+msgid "% Comments"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1138
+msgid "Trackbacks For This Post"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1150
+msgid "Comments are closed."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1160
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1165
+msgid "You must be"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1165
+msgid "logged in"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1165
+msgid "to post a comment."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1170
+msgid "logged in as"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1170
+msgid "Log out of this account"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1170
+msgid "Logout"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1174
+msgid "Name"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1174 ../lib_frame/frame_actions.php:1176
+msgid "*"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1176
+msgid "Email"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1178
+msgid "Website"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1181
+msgid "Add Comment"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1196
+msgid "Delete"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1197
+msgid "Spam"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1222 ../lib_frame/frame_actions.php:1466
+#: ../lib_frame/frame_actions.php:1494 ../lib_frame/frame_actions.php:1522
+#: ../lib_theme/theme_functions.php:36
+msgid "Edit"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1224
+msgid "Reply"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1231
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1358
+msgid "Error 404 | Nothing found!"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1371
+msgid "Browsing Category"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1375
+msgid "Browsing Tag"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1379
+msgid "Browsing Posts of"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1383
+msgid "Browsing Day"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1387
+msgid "Browsing Month"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1391
+msgid "Browsing Year"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1395 ../lib_frame/frame_seo.php:62
+msgid "Search results for"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1428
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1429
+msgid ""
+"Surfin&#8217; ain&#8217;t easy, and right now, you&#8217;re lost at sea. But "
+"don&#8217;t worry; simply pick an option from the list below, and you&#8217;"
+"ll be back out riding the waves of the Internet in no time."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1431
+msgid ""
+"Hit the &#8220;back&#8221; button on your browser. It&#8217;s perfect for "
+"situations like this!"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1432
+#, php-format
+msgid "Head on over to the <a href=\"%s\" rel=\"nofollow\">home page</a>."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1433
+msgid "You will find what you are looking for."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1638
+msgid "Top Questions"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1841
+msgid ""
+"Error: Please make sure the Twitter account is <a href='http://help.twitter."
+"com/forums/10711/entries/14016'>public</a>."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1843
+msgid ""
+"Error: Twitter did not respond. Please wait a few minutes and refresh this "
+"page."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:27 ../lib_frame/frame_editor.php:29
+#: ../lib_frame/frame_editor.php:31 ../lib_frame/frame_editor.php:33
+msgid "Attention!"
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:27
+msgid ""
+"For security reasons, the file you are attempting to edit cannot be modified "
+"via this screen."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:29
+msgid ""
+"Your <code>custom/</code> directory does not appear to exist. Have you "
+"remembered to rename <code>/custom-sample</code>?"
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:31
+msgid "The file you are attempting does not appear to exist."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:33
+#, php-format
+msgid ""
+"Your <code>/custom/%s</code> file is not writable by the server, and in "
+"order to modify the file via the admin panel, BizzThemes needs to be able to "
+"write to this file. All you have to do is set this file&#8217;s permissions "
+"to 666, and you&#8217;ll be good to go."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:51
+msgid ""
+"Easy there, homey. You don&#8217;t have admin privileges to access theme "
+"options."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:61
+msgid ""
+"You have attempted to modify an ineligible file. Only files within the "
+"BizzThemes <code>/custom</code> folder may be modified via this interface. "
+"Thank you."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:102
+#, php-format
+msgid "Currently editing: <code>%s</code>"
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:106
+msgid ""
+"<strong>Note:</strong> Make sure you have <acronym title=\"File Transfer "
+"Protocol\">FTP</acronym> server access, before you start modifying <acronym "
+"title=\"PHP: Hypertext Preprocessor\">PHP</acronym> files. Bad code will "
+"make your site temporarily unusable."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:109
+msgid "File successfully updated."
+msgstr ""
+
+#: ../lib_frame/frame_seo.php:83
+msgid "Page"
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:445
+#: ../lib_theme/hooks/custom-templates.php:341
+msgid "Pages:"
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:447
+#: ../lib_theme/hooks/custom-templates.php:343
+#: ../lib_theme/hooks/custom-templates.php:415
+msgid "Categories:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:11
+msgid "BizzThemes Updates Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:14
+msgid ""
+"<strong>Important:</strong> before updating, please backup your database and "
+"all theme files."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:17
+msgid "Theme Update Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:42
+msgid "You are using the latest theme version."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:44
+msgid "Theme update is available."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:46
+msgid "Download latest theme version here"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:48
+msgid "To update your theme go through following steps:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:50 ../lib_frame/frame_updates.php:85
+msgid "Backup your old theme files and database."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:51
+msgid "Replace all files, leave Custom folder in root theme directory intact."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:52 ../lib_frame/frame_updates.php:87
+msgid "That&#8217;s it!"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:60
+msgid "Framework Library Update Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:77
+msgid "You are using the latest BizzThemes framework."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:79
+msgid "Framework update is available."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:81
+msgid "Download latest framework version here"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:83
+msgid "To update your theme framework go through following steps:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:86
+msgid "Replace all files in lib_frame folder with new ones."
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:13
+msgid "Primary Menu"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:14
+msgid "Footer Menu"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:30 ../lib_theme/theme_functions.php:32
+#: ../lib_theme/theme_functions.php:33
+msgid "FAQ Items"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:34
+msgid "Add New"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:35
+msgid "Add New FAQ"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:37
+msgid "Edit FAQ"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:38
+msgid "New FAQ"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:39
+msgid "View FAQ"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:40
+msgid "Search FAQ"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:41
+msgid "No FAQs found"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:42
+msgid "No FAQs found in trash"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:88
+msgid "FAQ Categories"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:89
+msgid "FAQ Category"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:90
+msgid "Search FAQ Categories"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:91
+msgid "Popular FAQ Categories"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:92
+msgid "All FAQ Categories"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:93
+msgid "Parent FAQ Category"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:94
+msgid "Parent FAQ Category:"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:95
+msgid "Edit FAQ Category"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:96
+msgid "Update FAQ Category"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:97
+msgid "Add New FAQ Category"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:98
+msgid "New FAQ Category Name"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:117
+msgid "FAQ Tags"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:118
+msgid "FAQ Tag"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:119
+msgid "Search FAQ Tags"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:120
+msgid "Popular FAQ Tags"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:121
+msgid "All FAQ Tags"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:122
+msgid "Parent FAQ Tag"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:123
+msgid "Parent FAQ Tag:"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:124
+msgid "Edit FAQ Tag"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:125
+msgid "Update FAQ Tag"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:126
+msgid "Add New FAQ Tag"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:127
+msgid "New FAQ Tag Name"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:164
+msgid "None"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:175
+#, php-format
+msgid "FAQ updated. <a href=\"%s\">View slide</a>"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:176
+msgid "Custom field updated."
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:177
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:178
+msgid "FAQ updated."
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:179
+#, php-format
+msgid "FAQ restored to revision from %s"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:180
+#, php-format
+msgid "FAQ published. <a href=\"%s\">View FAQ</a>"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:181
+msgid "FAQ saved."
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:182
+#, php-format
+msgid "FAQ submitted. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:183
+#, php-format
+msgid ""
+"FAQ scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview FAQ</a>"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:184
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:185
+#, php-format
+msgid "FAQ draft updated. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:230
+msgid "View all FAQs"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:242
+msgid "Filter"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:45 ../lib_theme/theme_options.php:61
+#: ../lib_theme/theme_options.php:78
+msgid "Logo & Search Form"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:46 ../lib_theme/theme_options.php:62
+#: ../lib_theme/theme_options.php:79
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:47 ../lib_theme/theme_options.php:63
+#: ../lib_theme/theme_options.php:80
+msgid "Featured Page Slider"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:48 ../lib_theme/theme_options.php:65
+#: ../lib_theme/theme_options.php:82
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:64
+msgid "Archive Content & Sidebar"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:81
+msgid "Post Content & Sidebar"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:200
+msgid "Bizz - Flickr"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:239
+msgid "Widget Title:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:243
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:247
+msgid "Number:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:255
+msgid "Type:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:257
+msgid "User"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:258
+msgid "Group"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:262
+msgid "Sorting:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:264
+msgid "Latest"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:265
+msgid "Random"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:562
+msgid "Twitter widget displays your twitter photos."
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:563
+msgid "Twitter Timeline"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:706
+#, php-format
+msgid ""
+"You need to <a href=\"%1$s\" target=\"_blank\">create a widget at Twitter."
+"com</a>, and then enter your widget id (the long number found in the URL of "
+"your widget's config page) in the field below. <a href=\"%2$s\" target="
+"\"_blank\">Read more</a>."
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:728
+msgid "Link Color (hex):"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:733
+msgid "Border Color (hex):"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:738
+msgid "Timeline Theme:"
+msgstr ""
+
+#: ../lib_theme/hooks/custom-templates.php:407
+msgid "The Last 30 Posts:"
+msgstr ""
+
+#: ../lib_theme/hooks/custom-templates.php:412
+msgid "comments"
+msgstr ""
+
+#: ../lib_theme/hooks/custom-templates.php:419
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../lib_theme/hooks/navigation.php:23
+msgid "Home"
+msgstr ""

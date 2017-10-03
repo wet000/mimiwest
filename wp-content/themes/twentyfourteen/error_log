@@ -1,0 +1,1 @@
+[21-Jul-2015 17:57:30 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/musicmc3/public_html/mimiwest/wp-content/themes/twentyfourteen/404.php on line 10

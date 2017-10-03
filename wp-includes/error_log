@@ -1,0 +1,75 @@
+[23-Apr-2013 15:23:23] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/functions.php on line 8
+[23-Apr-2013 15:23:39] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/functions.php on line 8
+[24-Jun-2013 12:25:03] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/admin-bar.php on line 39
+[24-Jun-2013 12:25:04] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/author-template.php on line 392
+[24-Jun-2013 12:25:07] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/canonical.php on line 506
+[24-Jun-2013 12:25:08] PHP Fatal error:  Class 'Walker' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/category-template.php on line 766
+[24-Jun-2013 12:25:09] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/musicmc3/public_html/mimiwest/wp-includes/class-feed.php on line 4
+[24-Jun-2013 12:25:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/class-feed.php on line 4
+[20-Nov-2013 22:30:17] PHP Fatal error:  Call to undefined function  is_robots() in /home1/musicmc3/public_html/mimiwest/wp-includes/template-loader.php on line 14
+[20-Nov-2013 22:30:32] PHP Fatal error:  Class 'Walker' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/nav-menu-template.php on line 17
+[20-Nov-2013 22:30:38] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/author-template.php on line 392
+[20-Nov-2013 22:30:41] PHP Fatal error:  Call to undefined function  add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/user.php on line 71
+[20-Nov-2013 22:30:43] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/general-template.php on line 1282
+[20-Nov-2013 22:30:48] PHP Fatal error:  Call to undefined function  add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/default-filters.php on line 17
+[20-Nov-2013 22:30:49] PHP Fatal error:  Class 'WP_Widget' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/default-widgets.php on line 14
+[20-Nov-2013 22:30:54] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/post.php on line 165
+[20-Nov-2013 22:31:05] PHP Fatal error:  Class 'WP_Dependencies' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/class.wp-styles.php on line 19
+[20-Nov-2013 22:31:07] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/theme.php on line 582
+[20-Nov-2013 22:31:09] PHP Fatal error:  Call to undefined function  is_admin() in /home1/musicmc3/public_html/mimiwest/wp-includes/vars.php on line 20
+[20-Nov-2013 22:31:12] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/kses.php on line 1392
+[20-Nov-2013 22:31:15] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/taxonomy.php on line 121
+[20-Nov-2013 22:31:21] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/canonical.php on line 506
+[20-Nov-2013 22:31:30] PHP Fatal error:  Call to undefined function  add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/shortcodes.php on line 335
+[20-Nov-2013 22:31:36] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/functions.php on line 8
+[20-Nov-2013 22:31:47] PHP Fatal error:  Call to undefined function  feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-atom.php on line 8
+[20-Nov-2013 22:31:48] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/script-loader.php on line 25
+[20-Nov-2013 22:31:55] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/rss.php on line 18
+[20-Nov-2013 22:32:03] PHP Fatal error:  Call to undefined function  feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-rss2.php on line 8
+[20-Nov-2013 22:32:05] PHP Fatal error:  Call to undefined function  feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-rdf.php on line 8
+[20-Nov-2013 22:32:07] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/rss-functions.php on line 8
+[20-Nov-2013 22:32:08] PHP Fatal error:  Call to undefined function  feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-rss.php on line 8
+[20-Nov-2013 22:32:13] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/class-simplepie.php on line 5
+[20-Nov-2013 22:32:22] PHP Fatal error:  Class 'Walker' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/category-template.php on line 766
+[20-Nov-2013 22:32:32] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/class-snoopy.php on line 6
+[20-Nov-2013 22:32:34] PHP Fatal error:  Class 'IXR_Server' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/class-wp-xmlrpc-server.php on line 22
+[20-Nov-2013 22:32:35] PHP Fatal error:  Call to undefined function  add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/class-wp-embed.php on line 20
+[20-Nov-2013 22:32:37] PHP Fatal error:  Call to undefined function  add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/ms-default-filters.php on line 17
+[20-Nov-2013 22:32:38] PHP Fatal error:  Call to undefined function  add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/ms-default-constants.php on line 151
+[20-Nov-2013 22:32:41] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/registration.php on line 7
+[25-Feb-2014 16:33:46 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/nav-menu-template.php on line 17
+[25-Feb-2014 16:34:10 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/author-template.php on line 453
+[25-Feb-2014 16:34:17 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/general-template.php on line 1342
+[25-Feb-2014 16:34:25 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/default-filters.php on line 17
+[25-Feb-2014 16:34:26 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/default-widgets.php on line 14
+[25-Feb-2014 16:34:37 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/theme.php on line 671
+[25-Feb-2014 16:34:40 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home1/musicmc3/public_html/mimiwest/wp-includes/vars.php on line 20
+[25-Feb-2014 16:34:42 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/kses.php on line 1395
+[25-Feb-2014 16:34:44 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/taxonomy.php on line 121
+[25-Feb-2014 16:34:50 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/musicmc3/public_html/mimiwest/wp-includes/class-simplepie.php on line 5
+[25-Feb-2014 16:34:50 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/musicmc3/public_html/mimiwest/wp-includes/class-simplepie.php on line 5
+[25-Feb-2014 16:34:50 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/class-simplepie.php on line 5
+[25-Feb-2014 16:34:56 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/canonical.php on line 530
+[25-Feb-2014 16:35:06 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/musicmc3/public_html/mimiwest/wp-includes/script-loader.php on line 25
+[25-Feb-2014 16:35:06 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/musicmc3/public_html/mimiwest/wp-includes/script-loader.php on line 25
+[25-Feb-2014 16:35:06 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/script-loader.php on line 25
+[25-Feb-2014 16:35:11 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/shortcodes.php on line 388
+[25-Feb-2014 16:35:14 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-atom.php on line 8
+[25-Feb-2014 16:35:17 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/musicmc3/public_html/mimiwest/wp-includes/functions.php on line 8
+[25-Feb-2014 16:35:17 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/musicmc3/public_html/mimiwest/wp-includes/functions.php on line 8
+[25-Feb-2014 16:35:17 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/musicmc3/public_html/mimiwest/wp-includes/functions.php on line 8
+[25-Feb-2014 16:35:31 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/rss.php on line 19
+[25-Feb-2014 16:35:36 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/class-snoopy.php on line 6
+[25-Feb-2014 16:35:44 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/class-wp-embed.php on line 20
+[25-Feb-2014 16:35:52 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-rss2.php on line 8
+[25-Feb-2014 16:35:53 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-rdf.php on line 8
+[25-Feb-2014 16:35:57 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/rss-functions.php on line 8
+[25-Feb-2014 16:35:59 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/musicmc3/public_html/mimiwest/wp-includes/registration.php on line 7
+[25-Feb-2014 16:36:02 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/ms-default-constants.php on line 151
+[25-Feb-2014 16:36:03 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/musicmc3/public_html/mimiwest/wp-includes/feed-rss.php on line 8
+[25-Feb-2014 16:36:05 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/musicmc3/public_html/mimiwest/wp-includes/post.php on line 165
+[25-Feb-2014 16:36:07 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/ms-default-filters.php on line 17
+[25-Feb-2014 16:36:09 America/Denver] PHP Fatal error:  Call to undefined function is_robots() in /home1/musicmc3/public_html/mimiwest/wp-includes/template-loader.php on line 28
+[25-Feb-2014 16:36:12 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/class-wp-xmlrpc-server.php on line 22
+[25-Feb-2014 16:36:17 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/musicmc3/public_html/mimiwest/wp-includes/user.php on line 71
+[25-Feb-2014 16:36:18 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/musicmc3/public_html/mimiwest/wp-includes/category-template.php on line 767
